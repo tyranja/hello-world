@@ -1,1 +1,1 @@
-test gits git-it at the rubymonsters group
+test gits git-it at the rubymonsters group on monday
